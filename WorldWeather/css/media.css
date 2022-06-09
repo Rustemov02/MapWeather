@@ -1,0 +1,41 @@
+.modalContent {
+    min-width: 240px;
+} 
+.header {
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+} 
+#name { 
+    display: flex;
+    width: fit-content;
+    margin: auto;
+    align-items: center; 
+    padding : 0 20% ;
+    text-align: center  ;
+} 
+.thermometr { 
+    margin: auto;
+    align-items: center;
+    /* left: 20%; */
+     /* text-align: center; */
+     width: fit-content;
+     margin : 10px 0;
+}  
+.inform {
+    flex-direction: column;
+    justify-content: center; 
+} 
+.triple {
+    width: fit-content;
+    margin: auto;
+    text-align: center;
+}  
+.icons{
+    width: fit-content;
+    margin: auto;
+}
+.icon svg {  
+    float: none;
+    margin: 0 37%;
+}
